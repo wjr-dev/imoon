@@ -1,5 +1,5 @@
 {
-  "name": "@imoom/core",
+  "name": "@imoons/core",
   "version": "1.0.0",
   "description": "",
   "bin": "bin/index.js",
@@ -13,6 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@imoon/commands": "workspace:^"
+    "@imoons/commands": "workspace:^"
   }
 }

@@ -16,7 +16,7 @@ importers:
 
   packages/core:
     dependencies:
-      '@imoon/commands':
+      '@imoons/commands':
         specifier: workspace:^
         version: link:../commands
 
