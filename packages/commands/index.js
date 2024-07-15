@@ -1,4 +1,4 @@
 module.exports = function () {
   console.log('commands')
-  console.log('test1')
+  console.log('test2')
 }
